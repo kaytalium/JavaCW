@@ -7,9 +7,8 @@ GUI(swing components) The application should make use of the following GUI compo
 - Component class: 
 
 
-|                                  |                                 |                           |
-|----------------------------------|---------------------------------|---------------------------|
-|   <ul>                           | <ul>                            |   <ul>                    |
+
+   <ul>                            <ul>                               <ul>                    
         <li>- [ ] JButton</li>          <li>- [ ] JComboBox</li>            <li>- [ ] JSlider</li>      
         <li>- [ ] JLabel </li>          <li>- [ ] JCheckBox</li>            <li>- [ ] JProgressBar </li>
         <li>- [ ] JTextField</li>       <li>- [ ] JPasswordField</li>       <li>- [ ] JCalendar</li>        
