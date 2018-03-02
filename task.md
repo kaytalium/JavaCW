@@ -7,13 +7,15 @@ GUI(swing components) The application should make use of the following GUI compo
 - Component class: 
 
 
-|                     |                       |                          |
-|---------------------|-----------------------|--------------------------|
-|    - [ ] JButton    |   - [ ] JComboBox     |       - [ ] JSlider      |
-|    - [ ] JLabel     |   - [ ] JCheckBox     |       - [ ] JProgressBar |
-|    - [ ] JTextField |   - [ ] JPasswordField|   - [ ] JCalendar        |
-|    - [ ] JMenu      |   - [ ] JList         |    - [ ] JSeperator      | 
-|    - [ ] JTextArea  |   - [ ] JScrollBar    |    - [ ] JTable          |
+|                                  |                                 |                           |
+|----------------------------------|---------------------------------|---------------------------|
+|   <ul>                           | <ul>                            |   <ul>                    |
+        <li>- [ ] JButton</li>          <li>- [ ] JComboBox</li>            <li>- [ ] JSlider</li>      
+        <li>- [ ] JLabel </li>          <li>- [ ] JCheckBox</li>            <li>- [ ] JProgressBar </li>
+        <li>- [ ] JTextField</li>       <li>- [ ] JPasswordField</li>       <li>- [ ] JCalendar</li>        
+        <li>- [ ] JMenu  </li>          <li>- [ ] JList</li>                <li>- [ ] JSeperator</li>       
+        <li>- [ ] JTextArea</li>        <li>- [ ] JScrollBar</li>           <li>- [ ] JTable </li>         
+    </ul>                             </ul>                             </ul>
      
 - Container Class: 
 - [] JFrame, JPanel, JDialog, JScrollPane [8 marks] Helper Class: Graphics, Color, FontMetrics, Font Dimension, LayoutManager, FlowLayout [8 marks]Events and Listeners: Mouse, Action, window and key ( using inner classes and anonymous inner class)   [8 Marks]Apart from working properly, each graphical element is to be styled in a professional and visual appealing manner in order to obtain full-marks. JAVA SERVER PAGES The Business should also have a web presence. Use Java Server Pages to complete the following:JSP connects to the database.   Customers can register using the JSP Registration  form.  Customers can then log in to view the contents of one table in the databse, e.g. a list of items for sale or a list of the services offered by the business.[12  marks] Apart from working properly, Pages should be styled in a professional and visual appealing manner in order to obtain full-marks. ERROR HANDLING: Solution should handle all errors. [6 Marks]JDBC The application should demonstrate the ability to perform updates, deletions, insertions and searches as is appropriate for the application being developed. [20 marks] FUNCTIONALITY of the Solution [8 marks]ADDITIONAL INSTRUCTIONS Each group will: demonstrate the functionality of the system using their sample test data.  be required to print  and bind  the hard copy of the source code and submit same with a cover page, title, name of group , course, name of group members and content page in APA format. A description of the system should also be included on the page following the content page.  The appendix should contain screen shots, test data, break down of who did what and rubric. soft copy of code must be uploaded to canvas and submitted on cd along with hard copy. 
