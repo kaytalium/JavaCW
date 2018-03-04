@@ -80,8 +80,7 @@ Solution should handle all errors.
 
 |Solution                                                                                       |Max Marks |Earned Marks|
 |-----------------------------------------------------------------------------------------------|----------|------------|
-|<b>Component Class:</b> appropriate use of GUI element in relation to the application chosen    | 1        |            |
-|professionally styled & visually appealing                                                     | 1        |            |
+|<b>Component Class:</b> appropriate use of GUI element in relation to the application chosen (1 mark), professionally styled & visually appealing   | 1        |            |
 |JButton                                                                                        | 2        |            |
 |JLabel                                                                                         | 2        |            |
 |JTextField2JMenu                                                                               | 2        |            |
@@ -107,7 +106,16 @@ Solution should handle all errors.
 |JScrollPane|2 | |
 |Total      |8 | |
 
-Helper Class:  demonstrating the ability to use helpers (1 mark); appropriate use/manipulation of helpers which is consistent with the general functionality of the application chosen (1 mark)Max Marks Earned Marks Graphics1Color1FontMetrics1Font Dimension1LayoutManager2FlowLayout2Total8
+|   |Max Marks|Earned Marks|
+|-------------------------------------------------------------------------------------------------|---------|---------------|
+|Helper Class:  demonstrating the ability to use helpers (1 mark); appropriate use/manipulation of helpers which is consistent with the general functionality of the application chosen (1 mark)|Max Marks |Earned Marks|
+|Graphics|1||
+|Color|1||
+|Font Metrics |1||
+|Font Dimension|1||
+|LayoutManager|2||
+|FlowLayout|2||
+|Total|8||
 
 Java Server Pages:  demonstrating the ability to use JSP (1 mark); appropriate use/manipulation of directives, elements, actions, cookies which is consistent with the general functionality of the application chosen (3 mark)Max Marks Earned Marks JSP connects to the database.    3Customers can register using the JSPRegistration form.3Customers can then log in 3Customers canview the contents of one table in the databse3Total12
 
