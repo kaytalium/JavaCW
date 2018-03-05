@@ -117,8 +117,47 @@ Solution should handle all errors.
 |FlowLayout|2||
 |Total|8||
 
-Java Server Pages:  demonstrating the ability to use JSP (1 mark); appropriate use/manipulation of directives, elements, actions, cookies which is consistent with the general functionality of the application chosen (3 mark)Max Marks Earned Marks JSP connects to the database.    3Customers can register using the JSPRegistration form.3Customers can then log in 3Customers canview the contents of one table in the databse3Total12
+|   |Max Marks|Earned Marks|
+|------------------------------------------------------------------------------|-----------|----------------|
+|Java Server Pages:  demonstrating the ability to use JSP (1 mark);appropriate use/manipulation of directives, elements, actions, cookies which is consistent with the general functionality of the application chosen (3 mark).| | |
+|JSP connects to the database.| 3| |
+|Customers can register using the JSP Registration form.| 3| |
+|Customers can then log in|  3| |
+|Customers canview the contents of one table in the databse| 3| |
+|Total | 12| |
 
-Events and Listeners:  demonstrating the ability to use the event (1 mark); appropriate use of events in a manner consistent with the general functionality of the application chosen (1 mark)Max Marks Earned Marks Mouse2Action2window2key2Total 8Exception Handling:  demonstrating the ability to handle exception (1 mark); appropriate use of exception handling  in a manner consistent with the general functionality of the application chosen (1 mark)Max Marks Earned Marks 
+|   |Max Marks|Earned Marks|
+|----------------------------------------------------------------------------|--------------|----------------|
+|Events and Listeners:  demonstrating the ability to use the event (1 mark); appropriate use of events in a manner consistent with the general functionality of the application chosen (1 mark)| | |
+|Mouse | 2  | |
+|Action | 2 | | 
+|window | 2 | |
+|key | 2 | |
+Total | 8 | |
 
-Try2Catch2Finally2Total6JDBC: Max MarksEarned MarksProperly connect to available database and tables(GUI)1Ability to perform insertions(GUI)4Ability to perform updates(GUI)4Ability to perform deletions(GUI)4Ability to extract records from the database (ie search)(GUI)3Ability to appropriately display extracted records in aTable (GUI)4Total20Functionality of Solution:Total8Total Marks 100Percentage 100%Weight 20%
+
+|   |Max Marks|Earned Marks|
+|------------------------------------------------------------------------------|-----------|----------------|
+|Exception Handling:  demonstrating the ability to handle exception (1 mark); appropriate use of exception handling  in a manner consistent with the general functionality of the application chosen (1 mark)|Max Marks |Earned Marks| 
+|Try | 2 | |
+|Catch | 2 | |
+|Finally | 2 | |
+|Total | 6 | |
+
+|   |Max Marks|Earned Marks|
+|------------------------------------------------------------------------------|-----------|----------------|
+|JDBC: | | |
+|Properly connect to available database and tables(GUI)| 1 | |
+|Ability to perform insertions(GUI)| 4 | | 
+|Ability to perform updates(GUI)| 4 | |
+|Ability to perform deletions(GUI)| 4 | |
+|Ability to extract records from the database (ie search)(GUI)| 3 | |
+|Ability to appropriately display extracted records in a Table (GUI)| 4 | |
+|Total | 20 | | 
+| | | |
+|Functionality of Solution:| | |
+|Total | 8 | |
+| | | |
+|Total Marks | 100 | |
+|Percentage | 100% | |
+|Weight  | 20% | |
