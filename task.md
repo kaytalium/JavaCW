@@ -154,10 +154,8 @@ Total | 8 | |
 |Ability to extract records from the database (ie search)(GUI)| 3 | |
 |Ability to appropriately display extracted records in a Table (GUI)| 4 | |
 |Total | 20 | | 
-| | | |
 |Functionality of Solution:| | |
 |Total | 8 | |
-| | | |
 |Total Marks | 100 | |
 |Percentage | 100% | |
 |Weight  | 20% | |
