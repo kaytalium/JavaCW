@@ -83,16 +83,16 @@ Solution should handle all errors.
 |<b>Component Class:</b> appropriate use of GUI element in relation to the application chosen (1 mark), professionally styled & visually appealing   | 1        |            |
 |JButton                                                                                 |<ul><li>- [x] 2</li></ul>|         |
 |JLabel                                                                                  |<ul><li>- [x] 2</li></ul>|         |
-|JTextField2                                                                             |<ul><li>- [x] 2</li></ul>|         |
+|JTextField                                                                              |<ul><li>- [x] 2</li></ul>|         |
 |JMenu                                                                                   |<ul><li>- [x] 2</li></ul>|         |
 |JTextArea                                                                               |<ul><li>- [x] 2</li></ul>|         |
 |JComboBox                                                                               |<ul><li>- [x] 2</li></ul>|         |
-|JCheckBox                                                                               |<ul><li>- [x] 2</li></ul>|         |
+|JCheckBox                                                                               |<ul><li>- [ ] 2</li></ul>|         |
 |JPasswordField                                                                          |<ul><li>- [x] 2</li></ul>|         |
 |JList                                                                                   |<ul><li>- [x] 2</li></ul>|         |
 |JScrollBar                                                                              |<ul><li>- [x] 2</li></ul>|         |
-|JSlider                                                                                 |<ul><li>- [x] 2</li></ul>|         |
-|JProgressBar                                                                            |<ul><li>- [x] 2</li></ul>|         |
+|JSlider                                                                                 |<ul><li>- [ ] 2</li></ul>|         |
+|JProgressBar                                                                            |<ul><li>- [ ] 2</li></ul>|         |
 |JSeperator                                                                              |<ul><li>- [x] 2</li></ul>|         |
 |JTable                                                                                  |<ul><li>- [x] 2</li></ul>|         |
 |JCalendar                                                                               |<ul><li>- [x] 2</li></ul>|         |
@@ -101,59 +101,59 @@ Solution should handle all errors.
 |Solution                                                                                       |Max Marks |Earned Marks|
 |-----------------------------------------------------------------------------------------------|----------|-------------|
 |<b>Container Class:<b> demonstrating the ability to use the containers (1 mark); appropriate use/manipulation of containers which is consistent with the general functionality of the application chosen (1 mark)  | | | |
-|JFrame     |2 | |
-|JPanel     |2 | |
-|JDialog    |2 | |
-|JScrollPane|2 | |
+|JFrame     |<ul><li>- [x] 2</li></ul> | |
+|JPanel     |<ul><li>- [x] 2</li></ul>| |
+|JDialog    |<ul><li>- [x] 2</li></ul> | |
+|JScrollPane|<ul><li>- [x] 2</li></ul> | |
 |Total      |8 | |
 
 |   |Max Marks|Earned Marks|
 |-------------------------------------------------------------------------------------------------|---------|---------------|
 |Helper Class:  demonstrating the ability to use helpers (1 mark); appropriate use/manipulation of helpers which is consistent with the general functionality of the application chosen (1 mark)|Max Marks |Earned Marks|
-|Graphics|1||
-|Color|1||
-|Font Metrics |1||
-|Font Dimension|1||
-|LayoutManager|2||
-|FlowLayout|2||
+|Graphics|<ul><li>- [x] 1</li></ul>||
+|Color|<ul><li>- [x] 1</li></ul>||
+|Font Metrics |<ul><li>- [x] 1</li></ul>||
+|Font Dimension|<ul><li>- [x] 1</li></ul>||
+|LayoutManager|<ul><li>- [x] 2</li></ul>||
+|FlowLayout|<ul><li>- [x] 2</li></ul>||
 |Total|8||
 
 |   |Max Marks|Earned Marks|
 |------------------------------------------------------------------------------|-----------|----------------|
 |Java Server Pages:  demonstrating the ability to use JSP (1 mark);appropriate use/manipulation of directives, elements, actions, cookies which is consistent with the general functionality of the application chosen (3 mark).| | |
-|JSP connects to the database.| 3| |
-|Customers can register using the JSP Registration form.| 3| |
-|Customers can then log in|  3| |
-|Customers canview the contents of one table in the databse| 3| |
+|JSP connects to the database.| <ul><li>- [x] 3</li></ul>| |
+|Customers can register using the JSP Registration form.| <ul><li>- [x] 3</li></ul>| |
+|Customers can then log in|  <ul><li>- [x] 3</li></ul>| |
+|Customers canview the contents of one table in the databse| <ul><li>- [x] 3</li></ul>| |
 |Total | 12| |
 
 |   |Max Marks|Earned Marks|
 |----------------------------------------------------------------------------|--------------|----------------|
 |Events and Listeners:  demonstrating the ability to use the event (1 mark); appropriate use of events in a manner consistent with the general functionality of the application chosen (1 mark)| | |
-|Mouse | 2  | |
-|Action | 2 | | 
-|window | 2 | |
-|key | 2 | |
+|Mouse | <ul><li>- [x] 2</li></ul>  | |
+|Action | <ul><li>- [x] 2</li></ul>| | 
+|window | <ul><li>- [x] 2</li></ul> | |
+|key | <ul><li>- [x] 2</li></ul> | |
 Total | 8 | |
 
 
 |   |Max Marks|Earned Marks|
 |------------------------------------------------------------------------------|-----------|----------------|
 |Exception Handling:  demonstrating the ability to handle exception (1 mark); appropriate use of exception handling  in a manner consistent with the general functionality of the application chosen (1 mark)|Max Marks |Earned Marks| 
-|Try | 2 | |
-|Catch | 2 | |
-|Finally | 2 | |
+|Try | <ul><li>- [x] 2</li></ul> | |
+|Catch | <ul><li>- [x] 2</li></ul> | |
+|Finally | <ul><li>- [x] 2</li></ul> | |
 |Total | 6 | |
 
 |   |Max Marks|Earned Marks|
 |------------------------------------------------------------------------------|-----------|----------------|
 |JDBC: | | |
 |Properly connect to available database and tables(GUI)| 1 | |
-|Ability to perform insertions(GUI)| 4 | | 
-|Ability to perform updates(GUI)| 4 | |
-|Ability to perform deletions(GUI)| 4 | |
-|Ability to extract records from the database (ie search)(GUI)| 3 | |
-|Ability to appropriately display extracted records in a Table (GUI)| 4 | |
+|Ability to perform insertions(GUI)| <ul><li>- [x] 4</li></ul> | | 
+|Ability to perform updates(GUI)| <ul><li>- [x] 4</li></ul> | |
+|Ability to perform deletions(GUI)| <ul><li>- [x] 4</li></ul>| |
+|Ability to extract records from the database (ie search)(GUI)| <ul><li>- [x] 4</li></ul> | |
+|Ability to appropriately display extracted records in a Table (GUI)| <ul><li>- [x] 4</li></ul> | |
 |Total | 20 | | 
 |Functionality of Solution:| | |
 |Total | 8 | |
