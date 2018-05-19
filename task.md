@@ -148,11 +148,11 @@ Total | 8 | |
 |   |Max Marks|Earned Marks|
 |------------------------------------------------------------------------------|-----------|----------------|
 |JDBC: | | |
-|Properly connect to available database and tables(GUI)| 1 | |
+|Properly connect to available database and tables(GUI)| <ul><li>- [x] 1</li></ul> | |
 |Ability to perform insertions(GUI)| <ul><li>- [x] 4</li></ul> | | 
 |Ability to perform updates(GUI)| <ul><li>- [x] 4</li></ul> | |
 |Ability to perform deletions(GUI)| <ul><li>- [x] 4</li></ul>| |
-|Ability to extract records from the database (ie search)(GUI)| <ul><li>- [x] 4</li></ul> | |
+|Ability to extract records from the database (ie search)(GUI)| <ul><li>- [x] 3</li></ul> | |
 |Ability to appropriately display extracted records in a Table (GUI)| <ul><li>- [x] 4</li></ul> | |
 |Total | 20 | | 
 |Functionality of Solution:| | |
