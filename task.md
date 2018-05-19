@@ -10,7 +10,13 @@ The application should make use of the following GUI components; events and list
 
 |         Group 1                   |     Group 2                      |      Group 3               |
 |----------------------------------|---------------------------------|---------------------------|
-|   <ul><li>- [x] JButton</li><li>- [x] JLabel</li><li>- [x] JTextField</li><li>- [x] JMenu  </li><li>- [x] JTextArea</li></ul>                    | <ul><li>- [x] JComboBox</li><li>- [ ] JCheckBox</li><li>- [x] JPasswordField</li><li>- [ ] JList</li>  <li>- [ ] JScrollBar</li></ul>                            |   <ul><li>- [ ] JSlider</li><li>- [ ] JProgressBar </li><li>- [ ] JSeperator</li><li>- [ ] JTable </li><li>- [ ] JCalendar</li></ul>                                   |
+|   <ul>
+     <li>- [x] JButton</li>
+     <li>- [x] JLabel</li>
+     <li>- [x] JTextField</li>
+     <li>- [x] JMenu  </li>
+     <li>- [x] JTextArea</li>
+</ul>                    | <ul><li>- [x] JComboBox</li><li>- [ ] JCheckBox</li><li>- [x] JPasswordField</li><li>- [ ] JList</li>  <li>- [ ] JScrollBar</li></ul>                            |   <ul><li>- [ ] JSlider</li><li>- [ ] JProgressBar </li><li>- [ ] JSeperator</li><li>- [ ] JTable </li><li>- [ ] JCalendar</li></ul>                                   |
 
 [30 marks]   
 
