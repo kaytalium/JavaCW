@@ -10,33 +10,33 @@ The application should make use of the following GUI components; events and list
 
 |         Group 1                   |     Group 2                      |      Group 3               |
 |----------------------------------|---------------------------------|---------------------------|
-|   <ul><li>- [ ] JButton</li><li>- [ ] JLabel</li><li>- [ ] JTextField</li><li>- [ ] JMenu  </li><li>- [ ] JTextArea</li></ul>                    | <ul><li>- [ ] JComboBox</li><li>- [ ] JCheckBox</li><li>- [ ] JPasswordField</li><li>- [ ] JList</li>  <li>- [ ] JScrollBar</li></ul>                            |   <ul><li>- [ ] JSlider</li><li>- [ ] JProgressBar </li><li>- [ ] JSeperator</li><li>- [ ] JTable </li><li>- [ ] JCalendar</li></ul>                                   |
+|   <ul><li>- [x] JButton</li><li>- [x] JLabel</li><li>- [x] JTextField</li><li>- [x] JMenu  </li><li>- [x] JTextArea</li></ul>                    | <ul><li>- [x] JComboBox</li><li>- [ ] JCheckBox</li><li>- [x] JPasswordField</li><li>- [ ] JList</li>  <li>- [ ] JScrollBar</li></ul>                            |   <ul><li>- [ ] JSlider</li><li>- [ ] JProgressBar </li><li>- [ ] JSeperator</li><li>- [ ] JTable </li><li>- [ ] JCalendar</li></ul>                                   |
 
 [30 marks]   
 
      
 - Container Class: 
 
-    - [ ] JFrame, 
-    - [ ] JPanel, 
+    - [x] JFrame, 
+    - [x] JPanel, 
     - [ ] JDialog, 
-    - [ ] JScrollPane 
+    - [x] JScrollPane 
 
 [8 marks] 
 
 - Helper Class:
-    -  [ ] Graphics, 
-    - [ ] Color, 
-    - [ ] FontMetrics, 
-    - [ ] Font Dimension, 
-    - [ ] LayoutManager, 
-    - [ ] FlowLayout 
+    -  [x] Graphics, 
+    - [x] Color, 
+    - [x] FontMetrics, 
+    - [x] Font Dimension, 
+    - [x] LayoutManager, 
+    - [x] FlowLayout 
 
 [8 marks]
 
 - Events and Listeners: 
-    - [ ] Mouse, 
-    - [ ] Action, 
+    - [x] Mouse, 
+    - [x] Action, 
     - [ ] window and key ( using inner classes and anonymous inner class)   
     
     [8 Marks]
@@ -46,9 +46,9 @@ Apart from working properly, each graphical element is to be styled in a profess
 ### JAVA SERVER PAGES
 The Business should also have a web presence. Use Java Server Pages to complete the following:
 
-- [ ] JSP connects to the database.  
-- [ ] Customers can register using the JSP Registration  form.  
-- [ ] Customers can then log into view the contents of one table in the databse, e.g. a list of items for sale or a list of the services offered by the business.
+- [x] JSP connects to the database.  
+- [x] Customers can register using the JSP Registration  form.  
+- [x] Customers can then log into view the contents of one table in the databse, e.g. a list of items for sale or a list of the services offered by the business.
 
 [12  marks] 
 
