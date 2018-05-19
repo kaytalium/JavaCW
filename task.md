@@ -81,7 +81,7 @@ Solution should handle all errors.
 |Solution                                                                                       |Max Marks |Earned Marks|
 |-----------------------------------------------------------------------------------------------|----------|------------|
 |<b>Component Class:</b> appropriate use of GUI element in relation to the application chosen (1 mark), professionally styled & visually appealing   | 1        |            |
-|JButton                                                                                        | 2 <ul><li>- [x] </li></ul>       |            |
+|JButton                                                                                        |<ul><li>2 - [x] </li></ul>       |            |
 |JLabel                                                                                         | 2        |            |
 |JTextField2JMenu                                                                               | 2        |            |
 |JTextArea                                                                                      | 2        |            |
