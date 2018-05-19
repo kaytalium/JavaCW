@@ -79,23 +79,24 @@ Solution should handle all errors.
 ## RUBRIC 
 
 |Solution                                                                                       |Max Marks |Earned Marks|
-|-----------------------------------------------------------------------------------------------|----------|------------|
+|----------------------------------------------------------------------------------------|----------|------------|
 |<b>Component Class:</b> appropriate use of GUI element in relation to the application chosen (1 mark), professionally styled & visually appealing   | 1        |            |
-|JButton                                                                                        |<ul><li>- [x] 2</li></ul>       |            |
-|JLabel                                                                                         | 2        |            |
-|JTextField2JMenu                                                                               | 2        |            |
-|JTextArea                                                                                      | 2        |            |
-|JComboBox                                                                                      | 2        |            |
-|JCheckBox                                                                                      | 2        |            |
-|JPasswordField                                                                                 | 2        |            |
-|JList                                                                                          | 2        |            | 
-|JScrollBar                                                                                     | 2        |            |
-|JSlider                                                                                        | 2        |            |
-|JProgressBar                                                                                   | 2        |            |
-|JSeperator                                                                                     | 2        |            |
-|JTable                                                                                         | 2        |            |
-|JCalendar                                                                                      | 2        |            |
-|<b>Total</b>                                                                                   |<b> 30</b>|            |
+|JButton                                                                                 |<ul><li>- [x] 2</li></ul>|         |
+|JLabel                                                                                  |<ul><li>- [x] 2</li></ul>|         |
+|JTextField2                                                                             |<ul><li>- [x] 2</li></ul>|         |
+|JMenu                                                                                   |<ul><li>- [x] 2</li></ul>|         |
+|JTextArea                                                                               |<ul><li>- [x] 2</li></ul>|         |
+|JComboBox                                                                               |<ul><li>- [x] 2</li></ul>|         |
+|JCheckBox                                                                               |<ul><li>- [x] 2</li></ul>|         |
+|JPasswordField                                                                          |<ul><li>- [x] 2</li></ul>|         |
+|JList                                                                                   |<ul><li>- [x] 2</li></ul>|         |
+|JScrollBar                                                                              |<ul><li>- [x] 2</li></ul>|         |
+|JSlider                                                                                 |<ul><li>- [x] 2</li></ul>|         |
+|JProgressBar                                                                            |<ul><li>- [x] 2</li></ul>|         |
+|JSeperator                                                                              |<ul><li>- [x] 2</li></ul>|         |
+|JTable                                                                                  |<ul><li>- [x] 2</li></ul>|         |
+|JCalendar                                                                               |<ul><li>- [x] 2</li></ul>|         |
+|<b>Total</b>                                                                            |<b> 30</b>|            |
 
 |Solution                                                                                       |Max Marks |Earned Marks|
 |-----------------------------------------------------------------------------------------------|----------|-------------|
