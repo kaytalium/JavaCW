@@ -132,7 +132,7 @@ Solution should handle all errors.
 |Events and Listeners:  demonstrating the ability to use the event (1 mark); appropriate use of events in a manner consistent with the general functionality of the application chosen (1 mark)| | |
 |Mouse | <ul><li>- [x] 2</li></ul>  | |
 |Action | <ul><li>- [x] 2</li></ul>| | 
-|window | <ul><li>- [x] 2</li></ul> | |
+|window | <ul><li>- [ ] 2</li></ul> | |
 |key | <ul><li>- [x] 2</li></ul> | |
 Total | 8 | |
 
@@ -142,7 +142,7 @@ Total | 8 | |
 |Exception Handling:  demonstrating the ability to handle exception (1 mark); appropriate use of exception handling  in a manner consistent with the general functionality of the application chosen (1 mark)|Max Marks |Earned Marks| 
 |Try | <ul><li>- [x] 2</li></ul> | |
 |Catch | <ul><li>- [x] 2</li></ul> | |
-|Finally | <ul><li>- [x] 2</li></ul> | |
+|Finally | <ul><li>- [ ] 2</li></ul> | |
 |Total | 6 | |
 
 |   |Max Marks|Earned Marks|
