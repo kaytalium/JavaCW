@@ -10,7 +10,7 @@ The application should make use of the following GUI components; events and list
 
 |         Group 1                   |     Group 2                      |      Group 3               |
 |----------------------------------|---------------------------------|---------------------------|
-|   <ul><li>- [x] JButton</li><li>- [x] JLabel</li><li>- [x] JTextField</li><li>- [x] JMenu  </li><li>- [x] JTextArea</li></ul>         | <ul><li>- [x] JComboBox</li><li>- [ ] JCheckBox</li><li>- [x] JPasswordField</li><li>- [x] JList</li>  <li>- [x] JScrollBar</li></ul>                            |   <ul><li>- [ ] JSlider</li><li>- [ ] JProgressBar </li><li>- [x] JSeperator</li><li>- [x] JTable </li><li>- [x] JCalendar</li></ul>                                   |
+|   <ul><li>- [x] JButton</li><li>- [x] JLabel</li><li>- [x] JTextField</li><li>- [x] JMenu  </li><li>- [x] JTextArea</li></ul>         | <ul><li>- [x] JComboBox</li><li>- [ ] JCheckBox</li><li>- [x] JPasswordField</li><li>- [x] JList</li>  <li>- [x] JScrollBar</li></ul>                            |   <ul><li>- [ ] JSlider</li><li>- [x] JProgressBar </li><li>- [x] JSeperator</li><li>- [x] JTable </li><li>- [x] JCalendar</li></ul>                                   |
 
 [30 marks]   
 
@@ -19,13 +19,13 @@ The application should make use of the following GUI components; events and list
 
     - [x] JFrame, 
     - [x] JPanel, 
-    - [ ] JDialog, 
+    - [x] JDialog, 
     - [x] JScrollPane 
 
 [8 marks] 
 
 - Helper Class:
-    -  [x] Graphics, 
+    - [x] Graphics, 
     - [x] Color, 
     - [x] FontMetrics, 
     - [x] Font Dimension, 
@@ -92,7 +92,7 @@ Solution should handle all errors.
 |JList                                                                                   |<ul><li>- [x] 2</li></ul>|         |
 |JScrollBar                                                                              |<ul><li>- [x] 2</li></ul>|         |
 |JSlider                                                                                 |<ul><li>- [ ] 2</li></ul>|         |
-|JProgressBar                                                                            |<ul><li>- [ ] 2</li></ul>|         |
+|JProgressBar                                                                            |<ul><li>- [x] 2</li></ul>|         |
 |JSeperator                                                                              |<ul><li>- [x] 2</li></ul>|         |
 |JTable                                                                                  |<ul><li>- [x] 2</li></ul>|         |
 |JCalendar                                                                               |<ul><li>- [x] 2</li></ul>|         |
